@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300"> 
+  <circle cx="150" cy="150" r="140" fill="#68a063"/> 
+  <text x="150" y="140" 
+        text-anchor="middle" 
+        font-family="Arial" 
+        font-size="42" 
+        font-weight="bold" 
+        fill="white"> 
+    Node.js 
+  </text> 
+  <text x="150" y="180" 
+        text-anchor="middle" 
+        font-family="Arial" 
+        font-size="22" 
+        fill="white"> 
+    Learning is Fun! 
+  </text> 
+</svg> 
